@@ -1,0 +1,9 @@
+timestamp,user_id,action,file_name,file_type,file_size_mb,ip_address,country,city,device,browser,is_public,file_id,location,location_full,is_anomaly
+2026-02-02 09:55:12,UserA,login,,,0.0,192.168.1.10,India,Bangalore,Laptop,Chrome,False,F100,ap-south-1,ap-south-1,0
+2026-02-02 09:57:44,UserA,upload,confidential_data.pdf,pdf,5.2,192.168.1.10,India,Bangalore,Laptop,Chrome,False,F101,us-east-1,us-east-1,0
+2026-02-02 09:58:10,UserA,share,confidential_data.pdf,pdf,5.2,192.168.1.10,India,Bangalore,Laptop,Chrome,True,F102,eu-west-1,eu-west-1,0
+2026-02-02 10:03:21,UserA,login,,,0.0,190.203.50.1,Brazil,Sao Paulo,Desktop,Firefox,False,F103,ap-south-1,ap-south-1,0
+2026-02-02 10:05:40,UserA,download,financial_report.xlsx,xlsx,2.1,82.34.202.5,France,Paris,Desktop,Chrome,False,F104,us-east-1,us-east-1,0
+2026-02-02 10:05:42,UserA,download,employee_data.csv,csv,3.4,82.34.202.5,France,Paris,Desktop,Chrome,False,F105,eu-west-1,eu-west-1,0
+2026-02-02 10:05:45,UserA,download,client_list.docx,docx,1.8,82.34.202.5,France,Paris,Desktop,Chrome,False,F106,ap-south-1,ap-south-1,0
+2026-02-02 10:07:18,UserB,access,confidential_data.pdf,pdf,5.2,55.15.67.89,India,Delhi,Laptop,Edge,False,F107,us-east-1,us-east-1,0
